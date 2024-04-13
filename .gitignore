@@ -1,0 +1,7 @@
+# Clojure tools and linters
+/.clerk
+/.calva
+/.clj-kondo
+/.lsp
+/.cpcache
+
